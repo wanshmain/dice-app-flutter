@@ -1,4 +1,4 @@
-# first_app
+# DICE APP FLUTTER
 
 The Dice Roll App is a simple yet versatile tool for generating random dice rolls. Whether you're playing a board game, planning a tabletop RPG session, or just need a random number generator for any purpose, this app has you covered.
 
